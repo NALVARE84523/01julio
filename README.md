@@ -1,2 +1,4 @@
-# 01julio
-Clase del 01 de julio
+# CLASE COLABORATIVA
+
+* Nelson Alvarez Roa
+* Maria Hidalgo
