@@ -6,7 +6,10 @@ p{
 h1 {
     font-family: fantasy;
     color: rgb(71, 36, 10);
+<<<<<<< HEAD
     text-align-last: center;
+=======
+>>>>>>> master
 }
 
 body {
@@ -20,11 +23,18 @@ body {
     }
 
 .enlace {
+<<<<<<< HEAD
     margin-top: 1em;
     padding: 1em;
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
     text-align: center;
     display: block;
+=======
+    margin-top:1%;
+    padding: 1em;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    text-align: center;
+>>>>>>> master
 }
 
 .footer{
@@ -44,6 +54,7 @@ body {
     background-color: #1883ba;
     border-radius: 6px;
     border: 2px solid #0016b0;
+<<<<<<< HEAD
   }
 
 .block {
@@ -64,3 +75,6 @@ body {
     display: inline-block;
 }
 
+=======
+  }
+>>>>>>> master
