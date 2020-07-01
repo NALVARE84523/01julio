@@ -1,3 +1,107 @@
+/* Este css, corresponde al la página dos*/
+
 body {
- background-color: aquamarine;
+ margin: auto;  
+ padding: 2%; 
+ background-color: #64887e;
 }
+
+/* Inicia css del header*/
+.header{
+    margin: 1em;
+    padding: inherit;
+    background-color: #876387;
+    text-align: center;
+    color: honeydew;
+    word-spacing: 2em;
+}
+/* Iel id jerar se va a usar para todos distingir las jerarquías en el título y secciones*/
+
+#jerar {
+    color: #f000f0;
+    font-size: 1.8em;
+}
+
+#caja1{
+    background-color: #4a1b4a;
+    display: inline;
+    color: white;
+    margin: 1em;
+    padding: 0.5em;
+    width: inherit;
+}
+
+#caja2{
+    background-color: #5a305a;
+    display: inline;
+    color: white;
+    margin: 1em;
+    padding: 0.5em;
+    width: inherit;
+}
+
+#caja3{
+    background-color: #4a1b4a;
+    display: inline;
+    color: white;
+    margin: 1em;
+    padding: 0.5em;
+    width: inherit;
+}
+
+/* Termina css del header*/
+
+/* Inicia css del contenido*/
+
+.contenido{
+    margin: 1em;
+    padding: inherit;
+    background-color: #8ba59d;
+    color: honeydew;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 1.5em;
+}
+
+/* css para intercalar estilo de los párrafos*/
+
+#parrafo2, #parrafo4{
+    line-height: 1.8em;
+    color: #d0c098;
+    text-align: right;
+}
+
+/* Termina el css del contenido*/
+
+.enlace{
+    margin: 1em;
+    padding: inherit;
+    background-color: #0e5440;
+    text-align: center;
+    color: honeydew;
+}
+
+
+.boton{
+    border: 0.5px solid #f000f0;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: block;
+    font-size: 16px;
+    margin: 4px auto;
+    background-color: #4a1b4a;
+    border-radius: 3px;
+    width: 20%
+}
+    
+.footer{
+    margin: auto;
+    padding: 0;
+    background-color: #876387;
+    text-align: center;
+    color: honeydew;
+    word-spacing: 0.5em;
+    font-family: cursive;
+}
+
