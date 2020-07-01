@@ -6,6 +6,7 @@ p{
 h1 {
     font-family: fantasy;
     color: rgb(71, 36, 10);
+    text-align-last: center;
 }
 
 body {
@@ -19,10 +20,11 @@ body {
     }
 
 .enlace {
-    margin-top:1%;
+    margin-top: 1em;
     padding: 1em;
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
     text-align: center;
+    display: block;
 }
 
 .footer{
@@ -43,3 +45,22 @@ body {
     border-radius: 6px;
     border: 2px solid #0016b0;
   }
+
+.block {
+    display: block;
+    padding: 0px;
+    margin: 0px;
+}
+
+.inline {
+    display: inline;
+}
+
+.enlace2 {
+    margin-top:1%;
+    padding: 1em;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    text-align: right;
+    display: inline-block;
+}
+

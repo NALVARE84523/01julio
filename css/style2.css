@@ -1,0 +1,32 @@
+b {
+    color: brown;
+}
+
+strong {
+    color: burlywood;
+}
+
+em {
+    color: darkolivegreen;
+}
+
+i {
+    color: darkorange;
+}
+
+p.not {
+    word-spacing: 30px;
+}
+
+p.net {
+    text-align: right;
+}
+
+h3 {
+    letter-spacing: 10px;
+}
+
+.espacio {
+    margin: 0px 100px 0px 0px;
+    padding: 0px 100px 0px 0px;
+}
