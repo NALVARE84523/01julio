@@ -1,17 +1,21 @@
 b {
     color: brown;
+    font-size: 20px;
 }
 
 strong {
     color: burlywood;
+    font-size: 25px;
 }
 
 em {
     color: darkolivegreen;
+    font-size: 22px;
 }
 
 i {
     color: darkorange;
+    font-size: 18px;
 }
 
 p.not {
